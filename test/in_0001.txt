@@ -1,0 +1,6 @@
+3
+Mewtwo, Pikachu, Suicune
+Mewtwo, Suicune
+Pikachu, Rayquaza, Charizard
+Suicune, Pikachu, Charizard
+
